@@ -1,0 +1,1 @@
+ i wana create a screen pro application that provide a screen capture feature and webcam feature overlay that position bottom right corner circular shape.splash screen txt based on user input.and uniqe video identify for water mark.
